@@ -6,11 +6,11 @@
 <img align="right" alt="GIF"  width="300px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy.webp" />
 <p align="right">
 
-<h1 align="center"># Hello, folks! <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/wave.gif" width="30px"><br> I'm Preet <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/Developer.gif" width="65px"></h1><br><p><p>
+<h1 align="center"># Hello, folks! <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/wave.gif" width="30px"><br> I'm Preet <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/Developer.gif" width="65px"></h1><br><p>
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
-[![Hello programmer Welcome to my profile](https://github.com/ynpreet/Ynpreet/blob/main/images/Hello%2CProgrammer!-Welcome_3-orange.svg)](https://github.com/ynpreet) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ynpreet)<br>
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/preetmehta//)
+[![Hello programmer Welcome to my profile](https://github.com/ynpreet/Ynpreet/blob/main/images/Hello%2CProgrammer!-Welcome_3-orange.svg)](https://github.com/ynpreet)<br> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ynpreet)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/preetmehta//)
+<p align="center">
 <br>
 
 

@@ -32,14 +32,15 @@
 <br>
 
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
-
+<img align="right" alt="GIF"  width="45px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy%20(1).gif" />
 <p align="left"><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>  <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/python-original.svg" alt="python" width="30" height="30"/>  
  </p>
 <br>
-<img align="right" alt="GIF"  width="45px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy%20(1).gif" />
 
 
-<br><p><img align="left" height="27" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></p>
+
+<br>
+<img height="27" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 

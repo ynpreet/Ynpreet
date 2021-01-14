@@ -1,5 +1,5 @@
 
-<img align="right" height="180px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Capture.png" alt="image" />
+<img align="left" height="180px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Capture.png" alt="image" />
 <p align="left">
 
 

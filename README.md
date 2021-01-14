@@ -39,7 +39,7 @@
 <img align="left" alt="GIF"  width="110px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy%20(1).gif" />
 
 
-<br><img align="left" height="27" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<br><p><img align="left" height="27" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></p>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 

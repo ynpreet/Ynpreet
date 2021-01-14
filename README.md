@@ -1,4 +1,6 @@
-### Hello folks!👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img align="right" height="180px" src="https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/Capture.PNG" alt="image" />
+<p align="left">
 
 Here are some ideas to get you started:
 

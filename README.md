@@ -4,7 +4,7 @@
 <img align="right" alt="GIF"  width="300px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy.webp" />
 
 
-<h1 align="center"># Hello, folks! <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/wave.gif" width="30px"><br> I'm Preet <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/Developer.gif" width="65px"></h1><br><br><br><br>
+<h1 align="center"># Hello, folks! <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/wave.gif" width="30px"><br> I'm Preet <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/Developer.gif" width="65px"></h1><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 

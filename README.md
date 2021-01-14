@@ -8,7 +8,7 @@
 
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
-[![Hello programmer Welcome to my profile](https://github.com/ynpreet/Ynpreet/blob/main/images/Hello%2CProgrammer!-Welcome_3-orange.svg)](https://github.com/ynpreet)<br> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ynpreet)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/preetmehta//)<br>
+<p align="center">[![Hello programmer Welcome to my profile](https://github.com/ynpreet/Ynpreet/blob/main/images/Hello%2CProgrammer!-Welcome_3-orange.svg)](https://github.com/ynpreet)<br> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ynpreet)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/preetmehta//)</p><br>
 
 
 
@@ -32,12 +32,11 @@
 <br>
 
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
-
+<img align="right" alt="GIF"  width="100px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy%20(1).gif" />
 <p align="left"><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>  <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/python-original.svg" alt="python" width="30" height="30"/>  
  </p>
  
-<p align="right"><img align="right" alt="GIF"  width="100px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy%20(1).gif" />
- </p>
+
 <br>
 
 

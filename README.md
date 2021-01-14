@@ -36,7 +36,7 @@
 <p align="left"><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>  <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/python-original.svg" alt="python" width="30" height="30"/>  
  </p>
 <br>
-<img align="left" alt="GIF"  width="110px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy%20(1).gif" />
+<img align="right" alt="GIF"  width="45px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy%20(1).gif" />
 
 
 <br><p><img align="left" height="27" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></p>

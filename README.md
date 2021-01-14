@@ -7,7 +7,7 @@
 <h1 align="center"># Hello, folks! <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/wave.gif" width="30px"><br> I'm Preet <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/Developer.gif" width="65px"></h1><br><br>
 
 
-<!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
+
 [![<p align="center">Hello programmer Welcome to my profile<p>](https://github.com/ynpreet/Ynpreet/blob/main/images/Hello%2CProgrammer!-Welcome_3-orange.svg)](https://github.com/ynpreet)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ynpreet)  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/preetmehta//)
 
 
@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Data Science & Machine learning🤩**
 
-<!-- - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber)-->
+
 
 - <details> <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate Ask me about Technical Staff and about programming languages😎 </summary> <a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/ynpreet/Ynpreet/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
 </details>  
@@ -44,7 +44,7 @@
 <br>
 <img height="27" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Spotify%20Playing%20-%20%F0%9F%8E%A7-yellow.svg" />
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ)
 
 <br>
 

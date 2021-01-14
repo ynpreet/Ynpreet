@@ -1,15 +1,15 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="right" height="180px" src="https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/Capture.PNG" alt="image" />
+# Hello, folks! <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/wave.gif" width="30px">
+<img align="right" height="180px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Capture.png" alt="image" />
 <p align="left">
 
 
-<img align="right" alt="GIF"  width="300px" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" />
+<img align="right" alt="GIF"  width="300px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy.webp" />
 
-<h1 align="center">Hola 👋  :D , I'm Kushal Das <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Developer.gif" width="65px"></h1>
+<h1 align="center">Hola 👋  :D , I'm Preet Mehta <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/Developer.gif" width="65px"></h1>
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kushal997-das)[![Repos Badge](https://badges.pufler.dev/repos/Kushal997-das)](https://badges.pufler.dev/repos/Kushal997-das?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kushal-das-7337421a9/)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/ynpreet) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/ynpreet) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ynpreet)[![Repos Badge](https://badges.pufler.dev/repos/Kushal997-das)](https://badges.pufler.dev/repos/Kushal997-das?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/preetmehta//)
 <br>
 
 

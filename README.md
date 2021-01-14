@@ -23,7 +23,7 @@
 - <details> <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate Ask me about Technical Staff and about programming languages😎 </summary> <a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/ynpreet/Ynpreet/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
 </details>  
 
-- <details> <summary> 📫 </summary> How to reach me :</summary><a href="mailto:preetmehta1995@gmail.com"> <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/gmail.png" width="22px"/> </a>
+- <details> <summary> 📫 How to reach me :</summary><a href="mailto:preetmehta1995@gmail.com"> <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/gmail.png" width="22px"/> </a>
 </details>
 
 - <details> <summary>:zap: Fun fact</summary> 7% of all American adults believe that chocolate milk comes from brown cows
@@ -31,7 +31,7 @@
 
 <br>
 
-<img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<img height="25" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Languages%20and%20%20tools-%20%F0%9F%93%9A-green.svg" />
 <img align="right" alt="GIF"  width="100px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy%20(1).gif" />
 <p align="left"><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="45" height="30"/>  <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/python-original.svg" alt="python" width="30" height="45"/><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/tableau-software.svg" width="45" height="30"/>  
  </p>
@@ -42,7 +42,7 @@
 
 
 <br>
-<img height="27" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<img height="27" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Spotify%20Playing%20-%20%F0%9F%8E%A7-yellow.svg" />
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 

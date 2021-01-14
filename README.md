@@ -33,7 +33,7 @@
 
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 <img align="right" alt="GIF"  width="100px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy%20(1).gif" />
-<p align="left"><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>  <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/python-original.svg" alt="python" width="30" height="30"/><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/tableau.png" alt="tableau" width="30" height="30"/>  
+<p align="left"><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="45" height="30"/>  <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/python-original.svg" alt="python" width="30" height="45"/><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/tableau.png" alt="tableau" width="45" height="30"/>  
  </p>
  
 

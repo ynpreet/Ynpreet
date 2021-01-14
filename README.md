@@ -8,7 +8,7 @@
 
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
-[![Hello programmer Welcome to my profile](https://github.com/ynpreet/Ynpreet/blob/main/images/Hello%2CProgrammer!-Welcome_3-orange.svg)](https://github.com/ynpreet)<br> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ynpreet)[![Connect on LinkedIn](img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social")](https://www.linkedin.com/in/preetmehta//)<br>
+[![Hello programmer Welcome to my profile](https://github.com/ynpreet/Ynpreet/blob/main/images/Hello%2CProgrammer!-Welcome_3-orange.svg)](https://github.com/ynpreet)<br> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ynpreet)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/preetmehta//)<br>
 
 
 
@@ -33,10 +33,9 @@
 
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 
-<img align="right" alt="GIF"  width="45px" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/giphy%20(1).gif" />
+<img align="right" alt="GIF"  width="45px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy%20(1).gif" />
 
-<p align="left"><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/android-original-wordmark.svg" alt="android" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/c-original.svg" alt="c" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/django-original.svg" alt="django" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/java-original.svg" alt="java" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/javascript-original.svg" alt="javascript" width="30" height="30"/> 
- <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/linux-original.svg" alt="linux" width="30" height="30"/>  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="30" height="30"/>  
+<p align="left"><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>  <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/python-original.svg" alt="python" width="30" height="30"/>  
  </p>
 <br>
 <img height="27" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />

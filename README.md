@@ -46,9 +46,9 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ)
 
-### Spotify Playing 🎧
+<! –– ### Spotify Playing 🎧  ––>
 
-[<img src="https://now-playing-beige-ten.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31s7xanqwwzldh72zkvp5km2nqn4)
+<! ––[<img src="https://now-playing-beige-ten.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />(https://open.spotify.com/user/31s7xanqwwzldh72zkvp5km2nqn4)––>
 
 
 <br>

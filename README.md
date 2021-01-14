@@ -22,7 +22,7 @@
 
 <!-- - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber)-->
 
-- <details> <summary> 💬 Ask me about Technical Staff and about programming languages😎 </summary> <a href="https://wa.me/919476708884" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/5ae21cc526c97415d3213554.png" width="35px" /></a>
+- <details> <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate Ask me about Technical Staff and about programming languages😎 </summary> <a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/ynpreet/Ynpreet/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
 </details>  
 
 - <details> <summary> 📫  How to reach me :</summary><a href="mailto:preetmehta1995@gmail.com"> <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/gmail.png" width="22px"/> </a>

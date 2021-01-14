@@ -1,11 +1,11 @@
-# Hello, folks! <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/wave.gif" width="30px">
+
 <img align="right" height="180px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Capture.png" alt="image" />
 <p align="left">
 
 
 <img align="right" alt="GIF"  width="300px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy.webp" />
 
-<h1 align="center">Hola 👋  :D , I'm Preet Mehta <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/Developer.gif" width="65px"></h1>
+<h1 align="center"># Hello, folks! <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/wave.gif" width="30px">, I'm Preet Mehta <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/Developer.gif" width="65px"></h1>
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
 

@@ -14,23 +14,21 @@
 
 
 
-- 🕵 Mentor at The Sparks Foundation.
+- 🕵 Intern at The Sparks Foundation.
 
-- 🔭 Also I’m currently working on this project [Machine_learning](https://github.com/Kushal997-das/Machine-Learning)
+- 🔭 Also I’m currently working on this [Project](https://github.com/ynpreet/thesparksfoundation-projects)
 
-- 🌱 I’m currently learning **Data Science🤩**
+- 🌱 I’m currently learning **Data Science & Machine learning🤩**
 
 <!-- - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber)-->
-
-- 🤝 I’m looking for help with [Virtual Assistant](https://github.com/Kushal997-das/Virtual_Assistance)
 
 - <details> <summary> 💬 Ask me about Technical Staff and about programming languages😎 </summary> <a href="https://wa.me/919476708884" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/5ae21cc526c97415d3213554.png" width="35px" /></a>
 </details>  
 
-- <details> <summary> 📫  How to reach me :</summary><a href="mailto:daskushal980@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
+- <details> <summary> 📫  How to reach me :</summary><a href="mailto:preetmehta1995@gmail.com"> <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/gmail.png" width="22px"/> </a>
 </details>
 
-- <details> <summary>:zap: Fun fact</summary> Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂
+- <details> <summary>:zap: Fun fact</summary> 7% of all American adults believe that chocolate milk comes from brown cows
 </details>
 
 <br>

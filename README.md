@@ -48,19 +48,13 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&theme=tokyonight" alt="kushal997-das" /></p>
-
-</details>
-
-<details>
   <summary>:zap: Most used languages</summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&layout=compact&hide=html&theme=highcontrast" alt="kushal997-das" /></p>
+<p><img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b757368616c3939372d646173266c61796f75743d636f6d7061637426686964653d68.svg" /></p>
 </details> 
 
   
-<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Kushal997-das?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/ynpreet'><img align='center'  height="22" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Repos!%F0%9F%98%8A-purple.svg" /></a></h4>
 
 <br>
 
@@ -69,43 +63,28 @@
 while(!(succeed=try()); )
 ```
 <br>
- <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br>
+ <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Handshake.gif" height="30px"></h4> <br>
 
-<a href="https://www.linkedin.com/in/kushal-das-7337421a9/">
-  <img align="left" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
+<a href="https://www.linkedin.com/in/preetmehta/">
+  <img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
 </a>  
  
-<a href="https://instagram.com/kushal_das07" target="blank">
-  <img align="left" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Instagram%20(1).svg" alt="instagram" width="24px" />
+<a href="https://www.instagram.com/ynpreet/" target="blank">
+  <img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Instagram%20(1).svg" alt="instagram" width="24px" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank">
-  <img align="left" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/youtube-logo-icon-png-svg.png" alt="youtube"  width="25px" height='23.5' />
+<a href="https://www.youtube.com/channel/UCCcw6HxUkkfrlKn7-6SszDQ/featured" target="blank">
+  <img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/youtube-logo-icon-png-svg.png" alt="youtube"  width="25px" height='23.5' />
 </a>
 
-<a href="https://twitter.com/KushalD63268398" target="blank">
-  <img align="left" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Twitter%20(2).svg" width="26px" />
-</a>
 <br> <br> <br>
 
 <details>
   <summary>:zap: Tab here :P</summary>
-<p align="center"><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/tenor.gif" width="50"></p> <br>
+<p align="center"><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/tenor.gif" width="50"></p> <br>
 </details>  
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/> 
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/ynpreet/Ynpreet/blob/main/images/marquee.svg"/> 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 

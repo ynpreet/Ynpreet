@@ -98,7 +98,7 @@ while(!(succeed=try()); )
   </h4>
 </div>
 <p align="center">
-  <a href="https://github.com/M0315G">
+  <a href="https://github.com/ynpreet">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M0315G&count_private=true&theme=algolia&hide_border=true&show_icons=true&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0315G&theme=algolia&hide_border=true&langs_count=9&layout=compact"/>
   </a>

@@ -17,12 +17,6 @@
 
 - 🌱 I’m currently learning **Data Science & Machine learning🤩**
 
-<div align="center">
-  <h4> 
-    🏃 Happy Coding 🏃 
-  </h4>
-</div>
-
 - <details> <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate to work on ML projects😎 </summary> <a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/ynpreet/Ynpreet/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
 </details>  
 
@@ -32,7 +26,12 @@
 - <details> <summary>:zap: Fun fact</summary> 7% of all American adults believe that chocolate milk comes from brown cows
 </details>
 
-##:gear:  GitHub Analytics
+## :gear: My GitHub Analytics
+<div align="center">
+  <h4> 
+    🏃 Happy Coding 🏃 
+  </h4>
+</div>
 <p align="center">
   <a href="https://github.com/ynpreet">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ynpreet&count_private=true&theme=algolia&hide_border=true&show_icons=true&include_all_commits=true"/>

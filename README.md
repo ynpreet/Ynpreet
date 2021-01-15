@@ -87,6 +87,7 @@ while(!(succeed=try()); )
 <details>
   <summary>:zap: Tab here :P</summary>
 <p align="center"><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/tenor.gif" width="50"></p> <br>
+  <img align="right" src="https://github.com/ynpreet/Ynpreet/blob/main/images/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif" alt="Coder GIF" width="450" height="370">
 </details>  
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/ynpreet/Ynpreet/blob/main/images/marquee.svg"/> 
 

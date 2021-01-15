@@ -59,7 +59,21 @@
 
 <p><img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b757368616c3939372d646173266c61796f75743d636f6d7061637426686964653d68.svg" /></p>
 </details> 
+<br>
+### ⚙️ &nbsp;GitHub Analytics
 
+<div align="center">
+  <h4> 
+    🏃 Happy Coding 🏃 
+  </h4>
+</div>
+<p align="center">
+  <a href="https://github.com/M0315G">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ynpreet&count_private=true&theme=algolia&hide_border=true&show_icons=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynpreet&theme=algolia&hide_border=true&langs_count=9&layout=compact"/>
+  </a>
+</p>
+<br>
   
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/ynpreet'><img align='center'  height="22" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Repos!%F0%9F%98%8A-purple.svg" /></a></h4>
 

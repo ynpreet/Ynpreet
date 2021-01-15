@@ -53,13 +53,13 @@
 
 
 <br>
-## <img height="27" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Spotify%20Playing%20-%20%F0%9F%8E%A7-yellow.svg" />
+<img height="27" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Spotify%20Playing%20-%20%F0%9F%8E%A7-yellow.svg" />
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ)
 
 <br>
 
-## <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/ynpreet'><img align='center'  height="22" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Repos!%F0%9F%98%8A-purple.svg" /></a></h4>
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/ynpreet'><img align='center'  height="22" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Repos!%F0%9F%98%8A-purple.svg" /></a></h4>
 
 <br>
 

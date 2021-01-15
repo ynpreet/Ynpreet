@@ -7,10 +7,10 @@
 
 
 
-[!Hello programmer Welcome to my profile](https://github.com/ynpreet/Ynpreet/blob/main/images/Hello%2CProgrammer!-Welcome_3-orange.svg)](https://github.com/ynpreet)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ynpreet)  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/preetmehta//)
+[![Hello programmer Welcome to my profile](https://github.com/ynpreet/Ynpreet/blob/main/images/Hello%2CProgrammer!-Welcome_3-orange.svg)](https://github.com/ynpreet)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ynpreet)  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/preetmehta//)
 
 
-# About me:
+## About me:
 - 🕵 Intern at The Sparks Foundation.
 
 - 🔭 Also I’m currently working on this [Project](https://github.com/ynpreet/thesparksfoundation-projects)

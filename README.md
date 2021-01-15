@@ -17,7 +17,7 @@
 - 🔭 Also I’m currently working on this [Project](https://github.com/ynpreet/thesparksfoundation-projects)
 
 - 🌱 I’m currently learning **Data Science & Machine learning🤩**
-
+- 🔭 &nbsp;I am currently working in Machine Learning industry.
 
 
 - <details> <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate to work on ML projects😎 </summary> <a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/ynpreet/Ynpreet/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>

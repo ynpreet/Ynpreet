@@ -20,7 +20,7 @@
 - <details> <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate to work on ML projects😎 </summary> <a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/ynpreet/Ynpreet/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
 </details>  
 
-- <details> <summary> 📫 How to reach me :</summary><a href="mailto:preetmehta1995@gmail.com"> <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/gmail.png" width="22px"/> </a>
+- <details> <summary> 📫 How to reach me :information_desk_person: :</summary><a href="mailto:preetmehta1995@gmail.com"> <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/gmail.png" width="22px"/> </a>
 </details>
 
 - <details> <summary>:zap: Fun fact</summary> 7% of all American adults believe that chocolate milk comes from brown cows
@@ -85,7 +85,7 @@ while(!(succeed=try()); )
 <br> <br> <br>
 
 <details>
-  <summary>:zap: Tab here :P</summary>
+  <summary>:zap: Tab here :P :gift:</summary>
 <p align="center"><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/tenor.gif" width="50"></p> <br>
   <img align="right" src="https://github.com/ynpreet/Ynpreet/blob/main/images/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif" alt="Coder GIF" width="450" height="370">
 </details>  

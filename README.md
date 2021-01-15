@@ -1,4 +1,16 @@
 
+<div align="center">
+  <h4> 
+    🏃 Happy Coding 🏃 
+  </h4>
+</div>
+<p align="center">
+  <a href="https://github.com/ynpreet">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M0315G&count_private=true&theme=algolia&hide_border=true&show_icons=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0315G&theme=algolia&hide_border=true&langs_count=9&layout=compact"/>
+  </a>
+</p>
+
 <img align="left" height="180px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Capture.png" alt="image" />
 
 <img align="right" alt="GIF"  width="300px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy.webp" />
@@ -92,14 +104,3 @@ while(!(succeed=try()); )
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/ynpreet/Ynpreet/blob/main/images/marquee.svg"/> 
 
 
-<div align="center">
-  <h4> 
-    🏃 Happy Coding 🏃 
-  </h4>
-</div>
-<p align="center">
-  <a href="https://github.com/ynpreet">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M0315G&count_private=true&theme=algolia&hide_border=true&show_icons=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0315G&theme=algolia&hide_border=true&langs_count=9&layout=compact"/>
-  </a>
-</p>

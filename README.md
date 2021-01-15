@@ -82,11 +82,11 @@ while(!(succeed=try()); )
   <img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/youtube-logo-icon-png-svg.png" alt="youtube"  width="25px" height='23.5' />
 </a>
 
-<br> <br> <br>
+<br>
 
 <details>
   <summary>:zap: Tab here :P :gift:</summary>
-<p align="center"><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/tenor.gif" width="50"></p> <br>
+<p align="center"><img src="https://github.com/ynpreet/Ynpreet/blob/main/images/tenor.gif" width="50"></p> 
   <img align="right" src="https://github.com/ynpreet/Ynpreet/blob/main/images/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif" alt="Coder GIF" width="150" height="100">
 </details>  
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/ynpreet/Ynpreet/blob/main/images/marquee.svg"/> 

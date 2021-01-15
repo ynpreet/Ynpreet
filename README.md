@@ -82,7 +82,7 @@ while(!(succeed=try()); )
   <img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/youtube-logo-icon-png-svg.png" alt="youtube"  width="25px" height='23.5' />
 </a>
 
-<br>
+<br><br><br>
 
 <details>
   <summary>:zap: Tab here :P :gift:</summary>

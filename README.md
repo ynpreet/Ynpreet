@@ -13,7 +13,7 @@
 ## About me:<img src="https://github.com/ynpreet/Ynpreet/blob/main/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif" width="30"> 
 - 🕵 Intern at The Sparks Foundation.
 
-- 🔭 Also I’m currently working on this [Project](https://github.com/ynpreet/thesparksfoundation-projects)
+- 🔭 Feel free to check out my latest [Project](https://github.com/ynpreet/thesparksfoundation-projects)
 
 - 🌱 I’m currently learning **Data Science & Machine learning🤩**
 
@@ -23,7 +23,7 @@
 - <details> <summary> 📫 How to reach me :information_desk_person: </summary><a href="mailto:preetmehta1995@gmail.com"> <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/gmail.png" width="22px"/> </a>
 </details>
 
-- <details> <summary>:zap: Fun fact</summary> 7% of all American adults believe that chocolate milk comes from brown cows
+- <details> <summary>:zap: Fun fact</summary> 1. Google uses about 1,000 computers to answer every single search query.<br>2. By 2025, the Data Science analytics sector in India is estimated to grow eightfold, reaching $16 billion.
 </details>
 
 ## :gear: My GitHub Analytics

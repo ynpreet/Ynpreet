@@ -23,7 +23,7 @@
 - <details> <summary> 📫 How to reach me :information_desk_person: </summary><a href="mailto:preetmehta1995@gmail.com"> <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/gmail.png" width="22px"/> </a>
 </details>
 
-- <details> <summary>:zap: Fun fact</summary> 1. Google uses about 1,000 computers to answer every single search query.<br>2. By 2025, the Data Science analytics sector in India is estimated to grow eightfold, reaching $16 billion.
+- <details> <summary>:zap: Fun fact</summary> 1. Google uses about 1,000 computers to answer every single search query.<br>2. By 2025, the Data Science analytics sector in India is estimated to grow eightfold, reaching $16 billion.<br>3. Data Scientists and Data Analysts are NOT the Same<br>4. You do Not Need to be a Tech Savvy or Hold a PhD to Learn Data Science<br>5. Data Science is Not Just Excel Sheets<br>6. Data Science Competitions and Real Life Projects are Different<br>7. Data Science Field has Different Roles, Not just Data Scientists<br>8. Data Science Needs Great Communication Skills<br>9. Data Science is Not for Everyone<br>10. Less than 0.5% of all data we create is ever analysed and used.
 </details>
 
 ## :gear: My GitHub Analytics

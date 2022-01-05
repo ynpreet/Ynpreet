@@ -28,6 +28,25 @@
 - <details> <summary>:zap: Fun fact</summary> 1. Google uses about 1,000 computers to answer every single search query.<br>2. By 2025, the Data Science analytics sector in India is estimated to grow eightfold, reaching $16 billion.<br>3. Data Scientists and Data Analysts are NOT the Same<br>4. You do Not Need to be a Tech Savvy or Hold a PhD to Learn Data Science<br>5. Data Science is Not Just Excel Sheets<br>6. Data Science Competitions and Real Life Projects are Different<br>7. Data Science Field has Different Roles, Not just Data Scientists<br>8. Data Science Needs Great Communication Skills<br>9. Data Science is Not for Everyone<br>10. Less than 0.5% of all data we create is ever analysed and used.
 </details>
 
+### Languages and Tools:
+
+
+  
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>][github]
+[<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>][github]
+[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
+[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>][github]
+[<img align="left" alt="Next" width="40px"  src="https://camo.githubusercontent.com/bfedf1063f58b793a763019beb1a0b8ea4b4d7a3551a4b405ca1052f0a52f33a/68747470733a2f2f7261772e6769746875622e636f6d2f4c69656c416d61722f506f7274666f6c696f2f6d61737465722f7075626c69632f737667732f6e6578746a732e737667"/>][github]
+[<img align="left" alt="Canva" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg"/>][github]
+[<img align="left" alt="Sass" width="40px" src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667"/>][github]
+[<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>][github]
+[<img align="left" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg"/>][github]
+[<img align="left" alt="Material UI" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/materialui/materialui-plain.svg"/>][github]
+[<img align="left" alt="Sanity" width="40px" src="https://iconape.com/wp-content/files/hm/371468/svg/371468.svg"/>][github]
+[<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="40px"/>][github]
+[<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg"/>][github]
+
+
 ## :gear: My GitHub Analytics
 <div align="center">
   <h4> 

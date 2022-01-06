@@ -4,6 +4,7 @@
 
 
 <h1 align="center"># Hello, folks! <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/wave.gif" width="30px"><br> I'm Preet 
+<img src="https://github.com/ynpreet/Ynpreet/blob/main/images/Developer.gif" width="65px"></h1><br><br>
  <center><a href="https://www.linkedin.com/in/anikethsukhtankar/">
   <img align="left" alt="Aniketh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,7 +15,6 @@
   <img align="left" alt="Aniketh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
   </center>
- <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/Developer.gif" width="65px"></h1><br><br>
 
 
 

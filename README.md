@@ -27,7 +27,7 @@
 
 - 🧑‍🎓 Currently Pursuing MS in Data Analytics Engineering at Northeastern Universiry, Boston
  
-- 🕵 Analyst,Intern at LinkedIn Corporation.
+- 🕵 Business Intelligence Developer, Searce Inc.
 
 - 🔭 Feel free to check out my latest [Project](https://github.com/ynpreet/thesparksfoundation-projects)
 

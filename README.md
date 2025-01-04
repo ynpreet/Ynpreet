@@ -1,18 +1,17 @@
-<img align="left" height="180px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Capture.png" alt="image" />
+<img align="left" height="180px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Capture.png" alt="Profile Image" />
 <img align="right" width="300px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy.webp" />
 
-<h1 align="center">Hello, I'm Preet 👋</h1>
-<h3 align="center">Data Engineer | Problem Solver | Change Maker 🚀</h3>
+<h1 align="center">Hi, I'm Preet 👋</h1>
+<h3 align="center">Manager - Healthcare Analytics | Data Engineer 🚀</h3>
 
 ---
 
-## About Me <img src="https://github.com/ynpreet/Ynpreet/blob/main/images/wave.gif" width="30px">
-
-- 🎓 MS in Data Analytics Engineering at **Northeastern University, Boston**  
-- 💼 Former Business Intelligence Developer at **Searce Inc.**  
-- 📊 Focused on **Data Engineering, Analytics, and Machine Learning**  
-- 🌱 Currently learning **PySpark** and **Databricks**  
-- 💬 Passionate about solving complex data problems and scaling data pipelines.  
+## 🚀 About Me  
+- 📊 **Manager, Healthcare Analytics** at **EXL Services**.  
+- 💼 Previously worked at **CVS Health**, **LinkedIn**, and **Google Partners**.  
+- 🎓 Certified **Google Cloud Professional Data Engineer**, **Tableau Desktop Specialist**, and **LookML Developer**.  
+- 💡 Passionate about **data modeling**, **ETL pipelines**, and **cloud platforms**.  
+- 🌱 Currently exploring **Databricks**, **Azure Data Factory**, and **PySpark**.  
 
 ---
 
@@ -51,19 +50,10 @@
 
 ---
 
-## 🎧 Spotify Playing  
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/)
-
----
-
-## 🖥️ Fun Fact  
-1. Google processes over **3.5 billion searches daily**.  
-2. Less than **0.5% of all data** generated is ever analyzed.  
-
----
-
-## 💡 Projects  
-- 🔗 [The Sparks Foundation Project](https://github.com/ynpreet/thesparksfoundation-projects)  
+## 🔥 Fun Facts  
+- By 2025, **India’s analytics industry** is projected to grow **eightfold**, reaching **$16 billion**.  
+- Less than **0.5% of data created globally** is analyzed or used effectively.  
+- Data engineering powers over **80% of AI models**, making it the backbone of **machine learning**.  
 
 ---
 

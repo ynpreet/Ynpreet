@@ -1,7 +1,9 @@
 <img align="left" height="180px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Capture.png" alt="Profile Image" />
 <img align="right" width="300px" src="https://github.com/ynpreet/Ynpreet/blob/main/images/giphy.webp" />
 
-<h1 align="center">Hi, I'm Preet 👋</h1>
+<h1 align="center">Hi, I'm Preet 👋
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+</h1>
 <h3 align="center">Manager - Healthcare Analytics | Data Engineer 🚀</h3>
 
 ---

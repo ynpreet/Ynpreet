@@ -13,7 +13,7 @@
 - 💼 Previously worked at **CVS Health**, **LinkedIn**, and **Google Partners**.  
 - 🎓 Certified **Google Cloud Professional Data Engineer**, **Tableau Desktop Specialist**, and **LookML Developer**.  
 - 💡 Passionate about **data modeling**, **ETL pipelines**, and **cloud platforms**.  
-- 🌱 Currently exploring **Databricks**, **Azure Data Factory**, and **PySpark**.  
+- 🌱 Currently working on **Databricks**, **Azure Data Factory**, and **PySpark**.  
 
 ---
 

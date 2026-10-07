@@ -4,8 +4,6 @@
 
 *10 years turning messy, high-stakes data into systems people trust — mostly in healthcare.*
 
-→ Joining **Adobe** (Digital Media), San Jose — November 2026
-
 ## What I've built
 
 - **$300M saved** — Medicaid member-churn ML model for risk adjustment (EXL × CVS Health)
